@@ -29,4 +29,26 @@ heute haben wir aus Scatch nach Ideen gesucht, die wir programmieren können. Wi
 
 ## 17.12.2018
 
+Wir haben einen Steckbrief für unser Spiel entwickelt. Es soll ein interaktives Discovery-Spiel sein, wo der Spieler eine Figur (Kuh) durch verschiedene Situationen bringen muss. Dazu kann man Belohnungen sammeln und lernt zusätzlich allgemeine Information. Als Beispiel haben wir eine Situation in einem Gewitter, in der der Spieler entscheiden muss wie er die Kuh rettet. Als Belohnung bekommt er zum Beispiel einen Regenschirm. Wird das Quiz falsch beantwortet, folgt ein Mini-Spiel wodurch der Spieler die Figur trotzdem retten kann. 
+
 ## 18.12.2018
+ 
+"Die Geschichte einer Kuh - Das Grundkonzept unseres Spiels. Heute haben wir die Startseite unseres Spiels programmiert. 
+
+![startseite](https://user-images.githubusercontent.com/42734752/51918958-c79c4880-23e2-11e9-99ce-89e971faf95d.jpg)
+![startseite2](https://user-images.githubusercontent.com/42734752/51919039-f61a2380-23e2-11e9-94ad-f50687ee87ac.jpg)
+
+Dazu haben wir einen Button der zur nächsten Situation/Herausforderung wechselt.
+
+
+## 08.01.2019
+
+## 14.01.2019
+
+## 15.01.2019
+
+## 21.01.2019
+
+## 22.01.2019
+
+## 29.01.2018
