@@ -38,17 +38,46 @@ Wir haben einen Steckbrief für unser Spiel entwickelt. Es soll ein interaktives
 ![startseite](https://user-images.githubusercontent.com/42734752/51918958-c79c4880-23e2-11e9-99ce-89e971faf95d.jpg)
 ![startseite2](https://user-images.githubusercontent.com/42734752/51919039-f61a2380-23e2-11e9-94ad-f50687ee87ac.jpg)
 
-Dazu haben wir einen Button der zur nächsten Situation/Herausforderung wechselt.
+Dazu haben wir einen Button eingefügt, der zur nächsten Situation/Herausforderung wechselt("NEXT"). Es ändert sich der Hintergrund.
 
+![next button](https://user-images.githubusercontent.com/42734752/52200584-75877700-2869-11e9-83ff-8c17b38b096f.png)
+
+Es erscheint die Aufforderung "Klicke 1".
 
 ## 08.01.2019
 
+Wenn man nun die Taste 1 klickt, erscheint die Spielfigur.
+
+![unbenannt](https://user-images.githubusercontent.com/42734752/52200786-f181bf00-2869-11e9-84d7-d8f819ac484a.png)
+
+Klickt man diese, erscheinen 4 Antwortsmöglichkeiten zu der Frage, wie man die Kuh (Spielfigur) retten kann. Unser erstes Szenario ist ein Gewitter und soll zeigen, wie man sich dabei verhält.  
+Da es Die Antwortmöglichkeiten A, B, C, D gibt, kann man die entsprechende Buchstaben-Taste drücken, um seine Antwort auszuwählen. D.h. wir erstellen zu den jeweiligen Buchstaben ein Szenario in Form einer Animation, die den weiteren Verlauf des Spieles bestimmt.
+
+Daraufhin erscheint ein Text wieso die Entscheidung richtig oder falsch ist.
+
 ## 14.01.2019
 
+Wenn die Antwort falsch ist, kann man die Kuh noch mit einem Mini-Spiel retten. 
+Heute haben wir zu Antwort A das erste Spiel programmiert.
+
+![mini-spiel a](https://user-images.githubusercontent.com/42734752/52201604-48889380-286c-11e9-9101-49d3dc16994b.png)
+
+Man muss Blitzen mit Hilfe der Pfeiltasten ausweichen.
+Die Blitze kommen zufällig vom "Himmel":
+
+![blitze antwort a](https://user-images.githubusercontent.com/42734752/52201724-a026ff00-286c-11e9-81ef-a52030e9a7a1.png)
+
+
 ## 15.01.2019
+Heute haben wir die Animation für die Antwort B programmiert. Dafür brauchten wir etwas länger, da stets ein fehler auftrat. Wir wollten dass sich ein blauer Kreis auf einer bestimmten Höhe der y-Achse vergrößert (ausbreitet). Denn elektrische Felder breiten sich kreisförmig aus. Dies wollten wir damit verdeutlichen (für den Spieler). Allerdings schob sich der blaue Kreis immer auf der y-Achse nach oben. Da wir nicht wussten, wieso dies passierte, haben wir dem entgegen gewirkt, indem wir den Befehl hinzufügten, dass sich die Position des blauen Kreises auf der y-Achse negativ verändert, sodass es parallel zu der Vergrößerung wirkt. So blieb das Zentrum des Kreis auf der selben Position.
+
+![kreis antwort b](https://user-images.githubusercontent.com/42734752/52202106-d1ec9580-286d-11e9-8de3-a1d7b6b56d8d.png)
+
 
 ## 21.01.2019
 
 ## 22.01.2019
 
-## 29.01.2018
+## 29.01.2019
+
+## 04.02.2019
