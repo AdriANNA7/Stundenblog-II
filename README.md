@@ -75,9 +75,13 @@ Heute haben wir die Animation für die Antwort B programmiert. Dafür brauchten 
 
 
 ## 21.01.2019
-
+ Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen.Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlaif des Spieles auftreten.
+ Dazu haben wir Soundeffekts eingefügt. Und ein Konzept für eine Variable, die das Programmieren einfacher machen soll. Dies haben wir bis zum Ende der Stunde gemacht und werden es die folgenden Stunden weiter machen.
+ 
 ## 22.01.2019
 
 ## 29.01.2019
 
 ## 04.02.2019
+
+## 12.02.2019
