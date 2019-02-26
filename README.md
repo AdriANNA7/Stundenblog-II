@@ -80,9 +80,11 @@ Heute haben wir die Animation für die Antwort B programmiert. Dafür brauchten 
  
 ## 22.01.2019
 Heute haben wir das Szenario für die Antwort c programmiert. Diese Antwort ist ebenfalls falsch. Deswegen erscheint wenn man c drückt die Kuh in einem See, wo ein Blitz eintrifft.
+
 ![c antwort](https://user-images.githubusercontent.com/42734752/53418781-dcb3c980-39d8-11e9-81b9-0103d9d16a73.jpg)
 
 Dazu haben wir auch das Szenario für Antwort D, also eine Grube erstellt.
+
 ![d antwort](https://user-images.githubusercontent.com/42734752/53419163-9dd24380-39d9-11e9-9889-7a48e2ec76d6.jpg)
 
 ## 29.01.2019
@@ -95,8 +97,8 @@ Heute haben wir die Antwortmöglichkeit B optimiert, indem wir programmiert habe
 ![b blitz](https://user-images.githubusercontent.com/42734752/53419891-f8b86a80-39da-11e9-8549-354b2ad47891.jpg)
 
 Danach erscheint ein Informationskasten, der erklärt wieso die Antwort falsch ist. 
-![b falsch](https://user-images.githubusercontent.com/42734752/53420721-95c7d300-39dc-11e9-9b73-c4c7cc3529b8.jpg)
 
+![b falsch](https://user-images.githubusercontent.com/42734752/53420721-95c7d300-39dc-11e9-9b73-c4c7cc3529b8.jpg)
 
 ## 12.02.2019
 
@@ -105,5 +107,8 @@ Diese Stunde haben wir eine Variable *Score Belohnungen* erstellt. Diese erhöht
 ![belohnungen](https://user-images.githubusercontent.com/42734752/53423960-982d2b80-39e2-11e9-98aa-19120ce2bab5.png)
 
 ## 19.02.2019
+
+Diese Stunde haben wir uns Projekte im Interent angesehen, um neue Ideen zu finden, welche man bei unserem Spiel verwenden könnte. Zudem haben wir weiter unseren Stundenblog geschrieben und einige Sachen optimiert.
+
 ## 25.02.2019
 ## 26.02.2019
