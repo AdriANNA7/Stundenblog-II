@@ -75,11 +75,15 @@ Heute haben wir die Animation für die Antwort B programmiert. Dafür brauchten 
 
 
 ## 21.01.2019
- Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen.Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlaif des Spieles auftreten.
+ Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen.Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlauf des Spieles auftreten.
  Dazu haben wir Soundeffekts eingefügt. Und ein Konzept für eine Variable, die das Programmieren einfacher machen soll. Dies haben wir bis zum Ende der Stunde gemacht und werden es die folgenden Stunden weiter machen.
  
 ## 22.01.2019
+Heute haben wir das Szenario für die Antwort c programmiert. Diese Antwort ist ebenfalls falsch. Deswegen erscheint wenn man c drückt die Kuh in einem See, wo ein Blitz eintrifft.
+![c antwort](https://user-images.githubusercontent.com/42734752/53418781-dcb3c980-39d8-11e9-81b9-0103d9d16a73.jpg)
 
+Dazu haben wir auch das Szenario für Antwort D, also eine Grube erstellt.
+![d antwort](https://user-images.githubusercontent.com/42734752/53419163-9dd24380-39d9-11e9-9889-7a48e2ec76d6.jpg)
 ## 29.01.2019
 
 ## 04.02.2019
