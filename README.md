@@ -84,7 +84,10 @@ Heute haben wir das Szenario für die Antwort c programmiert. Diese Antwort ist 
 
 Dazu haben wir auch das Szenario für Antwort D, also eine Grube erstellt.
 ![d antwort](https://user-images.githubusercontent.com/42734752/53419163-9dd24380-39d9-11e9-9889-7a48e2ec76d6.jpg)
+
 ## 29.01.2019
+Diese Stunde haben wir das Szenario der Antwortsmöglichkeit A weiterentwickelt, indem wir eine Animation (Feuer)zusätzlich programmiert haben. 
+![feuer](https://user-images.githubusercontent.com/42734752/53419487-4680a300-39da-11e9-81ea-19e0e733f6dd.jpg)
 
 ## 04.02.2019
 
