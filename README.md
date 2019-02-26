@@ -90,5 +90,18 @@ Diese Stunde haben wir das Szenario der Antwortsmöglichkeit A weiterentwickelt,
 ![feuer](https://user-images.githubusercontent.com/42734752/53419487-4680a300-39da-11e9-81ea-19e0e733f6dd.jpg)
 
 ## 04.02.2019
+Heute haben wir die Antwortmöglichkeit B optimiert, indem wir programmiert haben, dass unsere einen Stromschlag bekommt (Animation). 
+
+![b blitz](https://user-images.githubusercontent.com/42734752/53419891-f8b86a80-39da-11e9-8549-354b2ad47891.jpg)
+
+Danach erscheint ein Informationskasten, der erklärt wieso die Antwort falsch ist. 
+![b falsch](https://user-images.githubusercontent.com/42734752/53420721-95c7d300-39dc-11e9-9b73-c4c7cc3529b8.jpg)
+
 
 ## 12.02.2019
+
+Diese Stunde haben wir eine Variable *Score Belohnungen* 
+
+## 19.02.2019
+## 25.02.2019
+## 26.02.2019
