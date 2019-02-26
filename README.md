@@ -100,7 +100,9 @@ Danach erscheint ein Informationskasten, der erklärt wieso die Antwort falsch i
 
 ## 12.02.2019
 
-Diese Stunde haben wir eine Variable *Score Belohnungen* 
+Diese Stunde haben wir eine Variable *Score Belohnungen* erstellt. Diese erhöht sich immer wenn die Kuh eine Belohnung bekommt. man bekommt immer eine Belohnung, wenn man eine richtige Antwort angibt. Diese Belohnungen sammelt man und kann in einer Trophäenliste ansehen. Der Score gibt dann dementsprechend die Information weiter, welche Belohnungen bereits gesammelt wurden.
+
+![belohnungen](https://user-images.githubusercontent.com/42734752/53423960-982d2b80-39e2-11e9-98aa-19120ce2bab5.png)
 
 ## 19.02.2019
 ## 25.02.2019
