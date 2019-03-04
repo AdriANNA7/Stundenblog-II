@@ -111,4 +111,7 @@ Diese Stunde haben wir eine Variable *Score Belohnungen* erstellt. Diese erhöht
 Diese Stunde haben wir uns Projekte im Interent angesehen, um neue Ideen zu finden, welche man bei unserem Spiel verwenden könnte. Zudem haben wir weiter unseren Stundenblog geschrieben und einige Sachen optimiert.
 
 ## 25.02.2019
+broadcast back button
+optimierung belohnungsschild
+weiterer Verlauf überlegen
 ## 26.02.2019
