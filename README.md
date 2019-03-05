@@ -112,7 +112,12 @@ Diese Stunde haben wir uns Projekte im Interent angesehen, um neue Ideen zu find
 
 ## 25.02.2019
 
-Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir nämlich durch den Control-befehl "receive" ersetzt, also broadcasts eingefügt. Dies hat uns einiges erleichtert.
+Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir nämlich durch den Control-befehl "receive" ersetzt, also broadcasts eingefügt. Dies hat uns einiges erleichtert, sodass wir die verschiedenen Sprites besser interagieren lassen konnten. Zum Beispiel bei der Antwortvariante **A**, wird eine Nachricht *Flammen* erstellt, die von einem anderen Sprite erfasst wird(in diesem Fall Sprite 6).
+
+![flammenbroadcast](https://user-images.githubusercontent.com/42734752/53811948-bb178c80-3f5a-11e9-8d72-79c611a41582.jpg)
+
+![antwort a neu](https://user-images.githubusercontent.com/42734752/53811526-e5b51580-3f59-11e9-8890-e7cb8ffd9a26.png)
+
 broadcast back button
 optimierung belohnungsschild
 weiterer Verlauf überlegen
