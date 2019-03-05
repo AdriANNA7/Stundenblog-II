@@ -102,13 +102,13 @@ Danach erscheint ein Informationskasten, der erklärt wieso die Antwort falsch i
 
 ## 12.02.2019
 
-Diese Stunde haben wir eine Variable *Score Belohnungen* erstellt. Diese erhöht sich immer wenn die Kuh eine Belohnung bekommt. man bekommt immer eine Belohnung, wenn man eine richtige Antwort angibt. Diese Belohnungen sammelt man und kann in einer Trophäenliste ansehen. Der Score gibt dann dementsprechend die Information weiter, welche Belohnungen bereits gesammelt wurden.
+Diese Stunde haben wir eine Variable *Score Belohnungen* erstellt. Diese erhöht sich immer wenn die Kuh eine Belohnung bekommt. Man bekommt immer eine Belohnung, wenn man eine richtige Antwort angibt. Diese Belohnungen sammelt man und kann in einer Trophäenliste ansehen. Der Score gibt dann dementsprechend die Information weiter, welche Belohnungen bereits gesammelt wurden.
 
 ![belohnungen](https://user-images.githubusercontent.com/42734752/53423960-982d2b80-39e2-11e9-98aa-19120ce2bab5.png)
 
 ## 19.02.2019
 
-Diese Stunde haben wir uns Projekte im Interent angesehen, um neue Ideen zu finden, welche man bei unserem Spiel verwenden könnte. Zudem haben wir weiter unseren Stundenblog geschrieben und einige Sachen optimiert.
+Diese Stunde haben wir uns Projekte im Internet angesehen, um neue Ideen zu finden, welche man bei unserem Spiel verwenden könnte. Zudem haben wir weiter unseren Stundenblog geschrieben und einige Sachen optimiert.
 
 ## 25.02.2019
 
@@ -116,7 +116,20 @@ Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir näml
 
 ![flammenbroadcast](https://user-images.githubusercontent.com/42734752/53811948-bb178c80-3f5a-11e9-8d72-79c611a41582.jpg) ![antwort a neu](https://user-images.githubusercontent.com/42734752/53811526-e5b51580-3f59-11e9-8890-e7cb8ffd9a26.png)
 
-broadcast back button
-optimierung belohnungsschild
 weiterer Verlauf überlegen
 ## 26.02.2019
+
+Heute haben wir das Belohnungsschild erstellt, welches permanent nach der ersten belohnung auf dem Bildschirm erscheinen soll. Man kann also immer darauf zu greifen und seine bereits gesammelten Belohnungen ansehen. Dies bereitete uns anfänglich einige Schwierigkeiten, denn man sollte mit einem "Back-Button" immer wieder zurück zu dem Bildschirm davor gelangen.
+
+![belohnungsschild](https://user-images.githubusercontent.com/42734752/53812331-907a0380-3f5b-11e9-96f3-37f149e10379.png)
+
+## 04.03.2019
+
+Heute haben wir die Erhaltung der ersten Belohnung optimiert. Die Belohnung sollte auf dem blauen Bildschirm des Trophäenschilds erscheinen und auf- und abspringen. 
+
+![regenschirm](https://user-images.githubusercontent.com/42734752/53813185-56a9fc80-3f5d-11e9-8e34-dedd78a88526.png)
+
+Der bereits erstellte Belohnungsscore verändert sich immer, wenn eine neue Belohnung erhalten wird. Je nachdem wie hoch der Score ist, erscheinen dann die bereits gesammelten Belohnungen bei anklicken des Belohnungsschilds.
+
+## 05.03.2019
+back button
