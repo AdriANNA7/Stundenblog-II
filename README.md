@@ -119,7 +119,7 @@ Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir näml
 weiterer Verlauf überlegen
 ## 26.02.2019
 
-Heute haben wir das Belohnungsschild erstellt, welches permanent nach der ersten belohnung auf dem Bildschirm erscheinen soll. Man kann also immer darauf zu greifen und seine bereits gesammelten Belohnungen ansehen. Dies bereitete uns anfänglich einige Schwierigkeiten, denn man sollte mit einem "Back-Button" immer wieder zurück zu dem Bildschirm davor gelangen.
+Heute haben wir das Belohnungsschild erstellt, welches permanent nach der ersten Belohnung auf dem Bildschirm erscheinen soll. Man kann also immer darauf zu greifen und seine bereits gesammelten Belohnungen ansehen. Dies bereitete uns anfänglich einige Schwierigkeiten, denn man sollte mit einem "Back-Button" immer wieder zurück zu dem Bildschirm davor gelangen.
 
 ![belohnungsschild](https://user-images.githubusercontent.com/42734752/53812331-907a0380-3f5b-11e9-96f3-37f149e10379.png)
 
@@ -132,4 +132,13 @@ Heute haben wir die Erhaltung der ersten Belohnung optimiert. Die Belohnung soll
 Der bereits erstellte Belohnungsscore verändert sich immer, wenn eine neue Belohnung erhalten wird. Je nachdem wie hoch der Score ist, erscheinen dann die bereits gesammelten Belohnungen bei anklicken des Belohnungsschilds.
 
 ## 05.03.2019
-back button
+Diese Stunde haben wir das Script für den "Back-Button" optimiert, den wir bereits am 26.02.2019 erstellt haben, aber bei dem wir Schwierigkeiten für eine fehlerfreie Benutzung hatten. Die Optimierung erreichten wir mit dem Befehl "broadcast", welcher von dem Sprite Belohnungsschild ausging. Wenn man also die Belohnungen sieht, erscheint auch ein "Back-Button", den man anklicken kann um zurück zu dem Spiel zu kommen und weiter zu spielen.
+ 
+ ![back button script](https://user-images.githubusercontent.com/42734752/54521489-50f3e400-496b-11e9-92ef-16583eda4e82.jpg)
+
+## 18.03.2019
+heute haben wir eigefügt, dass man zu der nächsten Situation nach dem ersten gelösten Level kommt. Dies programierten wir wieder mit "Broadcast" und dass der "Next-Button" wieder erscheint.
+
+![next button next level](https://user-images.githubusercontent.com/42734752/54521699-c1026a00-496b-11e9-834d-4c00718cf17a.png)
+
+Nun kann man mit dem "Next-Button" zu dem neuen Level (ein Cafe).
