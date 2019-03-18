@@ -142,3 +142,5 @@ heute haben wir eigefügt, dass man zu der nächsten Situation nach dem ersten g
 ![next button next level](https://user-images.githubusercontent.com/42734752/54521699-c1026a00-496b-11e9-834d-4c00718cf17a.png)
 
 Nun kann man mit dem "Next-Button" zu dem neuen Level (ein Cafe).
+Dabei stellten wir fest, dass ein Fehler auftritt, wenn man das Spiel schnell durchklickt, so wie wir das machen, um einfach Sachen zu überprüfen. Wenn man aber alle langsam macht und sich die Sachen durchliest, passiert dies nicht. Wir denken also, dass die Sprites nicht hinterherkommen, wenn man einfach alles durchklickt.
+
