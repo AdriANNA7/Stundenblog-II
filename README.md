@@ -46,7 +46,7 @@ Es erscheint die Aufforderung "Klicke 1".
 
 ## 08.01.2019
 
-Wenn man nun die Taste 1 klickt, erscheint die Spielfigur-Kuh.
+Wenn man nun die *Taste 1* klickt, erscheint die Spielfigur-Kuh.
 
 ![unbenannt](https://user-images.githubusercontent.com/42734752/52200786-f181bf00-2869-11e9-84d7-d8f819ac484a.png)
 
