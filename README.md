@@ -3,7 +3,7 @@
 ## 27.11.2018
 
 Um ein neues Projekt anzufangen, brauchten wir zuerst neue Ideen. In dieser Stunde sammelten wir also Ideen für anspruchsvolle Projekte, die man kreieren könnte.
-Wir hatten verschiedene Ansätze. Zum einen überlegten wir ein neues Programm  *[Appinventor](http://appinventor.mit.edu/explore/)* auszuprobierem um eine App zu programmieren und zum anderen waren wir unentschlossen, ob wir eine App, Animation oder ein weiteres Spiel programmieren wollen.
+Wir hatten verschiedene Ansätze. Zum einen überlegten wir ein neues Programm  *[Appinventor](http://appinventor.mit.edu/explore/)* auszuprobieren, um eine App zu programmieren und zum anderen waren wir unentschlossen, ob wir eine App, Animation oder ein weiteres Spiel programmieren wollen.
 
 Hier die **Liste unserer Ideen**:
 
@@ -25,7 +25,7 @@ Da wir unsere Progammierfähigkeiten aber weiter steigern wollten, entschlossen 
 
 ## 11.12.2018
 
-Heute haben wir bei *Scatch* nach Ideen gesucht, die wir programmieren können. Wir kamen zu dem Schluss, dass ein Spiel kombiniert mit Animationen, das Spielerlebnis interessanter gestalten würden. Zudem erfordert diese Kombination eine höhere Fachkompetenz. Dafür schauten wir uns einige Tutorials an, um einen ersten Überblick zu bekommen.
+Heute haben wir bei *[Scratch](https://scratch.mit.edu/)* nach Ideen gesucht, die wir programmieren können. Wir kamen zu dem Schluss, dass ein Spiel kombiniert mit Animationen, das Spielerlebnis interessanter gestalten würden. Zudem erfordert diese Kombination eine höhere Fachkompetenz. Dafür schauten wir uns einige Tutorials an, um einen ersten Überblick zu bekommen.
 
 ## 17.12.2018
 
@@ -33,12 +33,12 @@ Wir haben einen Steckbrief für unser Spiel entwickelt. Es soll ein interaktives
 
 ## 18.12.2018
  
-"Die Geschichte einer Kuh - Das Grundkonzept unseres Spiels. Heute haben wir die Startseite unseres Spiels programmiert. 
+"Die Geschichte einer Kuh" - Das Grundkonzept unseres Spiels. Heute haben wir die Startseite unseres Spiels programmiert. 
 
 ![startseite](https://user-images.githubusercontent.com/42734752/51918958-c79c4880-23e2-11e9-99ce-89e971faf95d.jpg)
 ![startseite2](https://user-images.githubusercontent.com/42734752/51919039-f61a2380-23e2-11e9-94ad-f50687ee87ac.jpg)
 
-Dazu haben wir einen Button eingefügt, der zur nächsten Situation/Herausforderung wechselt("NEXT"). Es ändert sich der Hintergrund.
+Dazu haben wir einen Button eingefügt, der zur nächsten Situation/Herausforderung wechselt (``NEXT``--> Es ändert sich der Hintergrund). Dieser Button wird im Laufe des Spiels weiter verwendet und programmiert. 
 
 ![next button](https://user-images.githubusercontent.com/42734752/52200584-75877700-2869-11e9-83ff-8c17b38b096f.png)
 
@@ -46,12 +46,12 @@ Es erscheint die Aufforderung "Klicke 1".
 
 ## 08.01.2019
 
-Wenn man nun die Taste 1 klickt, erscheint die Spielfigur.
+Wenn man nun die Taste 1 klickt, erscheint die Spielfigur-Kuh.
 
 ![unbenannt](https://user-images.githubusercontent.com/42734752/52200786-f181bf00-2869-11e9-84d7-d8f819ac484a.png)
 
-Klickt man diese, erscheinen 4 Antwortsmöglichkeiten zu der Frage, wie man die Kuh (Spielfigur) retten kann. Unser erstes Szenario ist ein Gewitter und soll zeigen, wie man sich dabei verhält.  
-Da es Die Antwortmöglichkeiten A, B, C, D gibt, kann man die entsprechende Buchstaben-Taste drücken, um seine Antwort auszuwählen. D.h. wir erstellen zu den jeweiligen Buchstaben ein Szenario in Form einer Animation, die den weiteren Verlauf des Spieles bestimmt.
+Klickt man diese, erscheinen 4 Antwortsmöglichkeiten zu der Frage, wie man die Kuh retten kann. Unser erstes Szenario ist ein Gewitter und soll zeigen, wie man sich dabei verhält.  
+Da es die Antwortmöglichkeiten ``A``,``B``, ``C``, ``D`` gibt, kann man die entsprechende Buchstaben-Taste drücken, um seine Antwort auszuwählen. D.h. wir erstellen zu den jeweiligen Buchstaben ein Szenario in Form einer Animation, die den weiteren Verlauf des Spieles bestimmt.
 
 Daraufhin erscheint ein Text wieso die Entscheidung richtig oder falsch ist.
 
