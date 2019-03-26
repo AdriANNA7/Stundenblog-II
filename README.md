@@ -170,3 +170,7 @@ Dabei stellten wir fest, dass ein Fehler auftritt, wenn man das Spiel schnell du
 Diese Stunde haben wir die Rettungsfrage für die **Antwortmöglichkeit B** programiert. Dafür benutzten wir den Befehl *tell* um auf bereits vorhandene *Broadcasts* anderer Sprites zuzugreifen. So kann man wieder zur Anfangsfrage, wenn man die Rettungsfrage richtig beantwortet oder es erscheint das bereits vorhandene **Game over**-Zeichen aus Antwort, sofern man die falsche Antwort anklickt.  
 
 ![antwort 2 b](https://user-images.githubusercontent.com/42734752/55006173-9d7b9700-4fdd-11e9-8b6a-6b872e84e1d8.png)
+
+## 26.03.2019
+
+Heute haben wir einige Befehle optimiert und die Kommunikation zwischen den Sprites verbessert indem wir den Befehl *broadcast* bei einigen durch den Befehl *tell* ersetzt haben. Zudem haben wir unseren Stundenblog überarbeitet und abgeschickt.
