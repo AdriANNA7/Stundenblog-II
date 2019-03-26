@@ -16,13 +16,13 @@ Wir hatten verschiedene Ansätze. Zum einen überlegten wir ein neues Programm  
 
 Hier die **Liste unserer Ideen**:
 
-  -Physikalische Versuche (Animationen)
+  - Physikalische Versuche (Animationen)
   
-  -Rechenprogramm (Online Rechner)
+  - Rechenprogramm (Online Rechner)
 
-  -primitives AI (Arduino)
+  - primitives AI (Arduino)
   
-  -Apps:
+  - Apps:
       --> Selbsttest - daraus ergibt : Persönlichkeit + z.B. passendes Reiseziel
       --> Kinderprognose (das Aussehen aufgrund der Mendel'schen Regeln, DNA, Allele)
       
@@ -51,7 +51,7 @@ Dazu haben wir einen Button eingefügt, der zur nächsten Situation/Herausforder
 
 ![next button](https://user-images.githubusercontent.com/42734752/52200584-75877700-2869-11e9-83ff-8c17b38b096f.png)
 
-Es erscheint die Aufforderung "Klicke 1".
+Es erscheint die Aufforderung *Klicke 1*.
 
 ## 08.01.2019
 
@@ -59,55 +59,58 @@ Wenn man nun die *Taste 1* klickt, erscheint die Spielfigur-Kuh.
 
 ![unbenannt](https://user-images.githubusercontent.com/42734752/52200786-f181bf00-2869-11e9-84d7-d8f819ac484a.png)
 
-Klickt man diese, erscheinen 4 Antwortsmöglichkeiten zu der Frage, wie man die Kuh retten kann. Unser erstes Szenario ist ein Gewitter und soll zeigen, wie man sich dabei verhält.  
-Da es die Antwortmöglichkeiten ``A``,``B``, ``C``, ``D`` gibt, kann man die entsprechende Buchstaben-Taste drücken, um seine Antwort auszuwählen. D.h. wir erstellen zu den jeweiligen Buchstaben ein Szenario in Form einer Animation, die den weiteren Verlauf des Spieles bestimmt.
+Klickt man diese, erscheinen **4 Antwortsmöglichkeiten** zu der Frage, wie man die Kuh retten kann. Unser erstes Szenario ist ein Gewitter und soll zeigen, wie man sich dabei verhält.  
+Da es die Antwortmöglichkeiten ``A``,``B``, ``C``, ``D`` gibt, kann man die entsprechende Buchstaben-Taste drücken, um seine Antwort auszuwählen. Das heißt wir erstellen zu den jeweiligen Buchstaben ein Szenario in Form einer Animation, die den weiteren Verlauf des Spieles bestimmt.
 
 Daraufhin erscheint ein Text wieso die Entscheidung richtig oder falsch ist.
 
 ## 14.01.2019
 
 Wenn die Antwort falsch ist, kann man die Kuh noch mit einem Mini-Spiel retten. 
-Heute haben wir zu Antwort A das erste Spiel programmiert.
+Heute haben wir zu **Antwort A** das erste Spiel programmiert.
 
 ![mini-spiel a](https://user-images.githubusercontent.com/42734752/52201604-48889380-286c-11e9-9101-49d3dc16994b.png)
 
-Man muss Blitzen mit Hilfe der Pfeiltasten ausweichen.
+Man muss Blitzen mit Hilfe der **Pfeiltasten** ausweichen.
 Die Blitze kommen zufällig vom "Himmel":
 
 ![blitze antwort a](https://user-images.githubusercontent.com/42734752/52201724-a026ff00-286c-11e9-81ef-a52030e9a7a1.png)
 
 
 ## 15.01.2019
-Heute haben wir die Animation für die Antwort B programmiert. Dafür brauchten wir etwas länger, da stets ein Fehler auftrat. Wir wollten dass sich ein blauer Kreis auf einer bestimmten Höhe der y-Achse vergrößert (ausbreitet). Denn elektrische Felder breiten sich kreisförmig aus. Dies wollten wir damit verdeutlichen (für den Spieler). Allerdings schob sich der blaue Kreis immer auf der y-Achse nach oben. Da wir nicht wussten, wieso dies passierte, haben wir dem entgegen gewirkt, indem wir den Befehl hinzufügten, dass sich die Position des blauen Kreises auf der y-Achse negativ verändert, sodass es parallel zu der Vergrößerung wirkt. So blieb das Zentrum des Kreis auf der selben Position.
+
+Heute haben wir die Animation für die **Antwort B** programmiert. Dafür brauchten wir etwas länger, da stets ein Fehler auftrat. Wir wollten dass sich ein blauer Kreis auf einer bestimmten Höhe der y-Achse vergrößert (ausbreitet). Denn elektrische Felder breiten sich kreisförmig aus. Dies wollten wir damit verdeutlichen (für den Spieler). Allerdings schob sich der blaue Kreis immer auf der y-Achse nach oben. Da wir nicht wussten, wieso dies passierte, haben wir dem entgegen gewirkt, indem wir den Befehl hinzufügten, dass sich die Position des blauen Kreises auf der y-Achse negativ verändert, sodass es parallel zu der Vergrößerung wirkt. So blieb das Zentrum des Kreis auf der selben Position.
 
 ![kreis antwort b](https://user-images.githubusercontent.com/42734752/52202106-d1ec9580-286d-11e9-8de3-a1d7b6b56d8d.png)
 
 
 ## 21.01.2019
- Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen. Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlauf des Spieles auftreten.
-Dazu haben wir Soundeffekts eingefügt. Und ein Konzept für eine Variable, die das Programmieren einfacher machen soll. Dies haben wir bis zum Ende der Stunde gemacht. Zusätzlich haben wir das Mini-Spiel für die Antwort A verbessert (siehe 14.01.2019).
+
+Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen. Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlauf des Spieles auftreten.
+Dazu haben wir Soundeffekts eingefügt. Und ein Konzept für eine Variable, die das Programmieren einfacher machen soll. Dies haben wir bis zum Ende der Stunde gemacht. Zusätzlich haben wir das Mini-Spiel für die **Antwort A** verbessert (siehe 14.01.2019).
  
 ![a optimiert](https://user-images.githubusercontent.com/42734752/54911424-bf4a2080-4eee-11e9-8831-c7ad9822cba1.png)
 
  
 ## 22.01.2019
-Heute haben wir das Szenario für die Antwort C programmiert. Diese Antwort ist ebenfalls falsch. Deswegen erscheint, wenn man C drückt, die Kuh in einem See, wo ein Blitz eintrifft.
+
+Heute haben wir das Szenario für die **Antwort C** programmiert. Diese Antwort ist ebenfalls falsch. Deswegen erscheint, wenn man **C** drückt, die Kuh in einem See, wo ein Blitz eintrifft.
 
 ![c antwort](https://user-images.githubusercontent.com/42734752/53418781-dcb3c980-39d8-11e9-81b9-0103d9d16a73.jpg)
 
-Dazu haben wir auch das Szenario für die richtige Antwort D, also eine Grube erstellt.
+Dazu haben wir auch das Szenario für die richtige **Antwort D**, also eine Grube erstellt.
 
 ![d antwort](https://user-images.githubusercontent.com/42734752/53419163-9dd24380-39d9-11e9-9889-7a48e2ec76d6.jpg)
 
 ## 29.01.2019
 
-Diese Stunde haben wir das Szenario der Antwortsmöglichkeit A weiterentwickelt, indem wir eine Animation (Feuer) zusätzlich programmiert haben. 
+Diese Stunde haben wir das Szenario der **Antwortsmöglichkeit A** weiterentwickelt, indem wir eine Animation (Feuer) zusätzlich programmiert haben. 
 
 ![feuer](https://user-images.githubusercontent.com/42734752/53419487-4680a300-39da-11e9-81ea-19e0e733f6dd.jpg)
 
 ## 04.02.2019
 
-Heute haben wir die Antwortmöglichkeit B optimiert, indem wir programmiert haben, dass unsere einen Stromschlag bekommt (Animation). 
+Heute haben wir die **Antwortmöglichkeit B** optimiert, indem wir programmiert haben, dass unsere einen Stromschlag bekommt (Animation). 
 
 ![b blitz](https://user-images.githubusercontent.com/42734752/53419891-f8b86a80-39da-11e9-8549-354b2ad47891.jpg)
 
@@ -127,13 +130,13 @@ Diese Stunde haben wir uns Projekte im Internet angesehen, um neue Ideen zu find
 
 ## 25.02.2019
 
-Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir nämlich durch den Control-befehl "receive" ersetzt, also broadcasts eingefügt. Dies hat uns einiges erleichtert, sodass wir die verschiedenen Sprites besser interagieren lassen konnten. Zum Beispiel bei der Antwortvariante **A**, wird eine Nachricht *Flammen* erstellt, die von einem anderen Sprite erfasst wird(in diesem Fall Sprite 6).
+Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir nämlich durch den Control-befehl *receive* ersetzt, also broadcasts eingefügt. Dies hat uns einiges erleichtert, sodass wir die verschiedenen Sprites besser interagieren lassen konnten. Zum Beispiel bei der Antwortvariante **A**, wird eine Nachricht *Flammen* erstellt, die von einem anderen Sprite erfasst wird(in diesem Fall Sprite 6).
 
 ![flammenbroadcast](https://user-images.githubusercontent.com/42734752/53811948-bb178c80-3f5a-11e9-8d72-79c611a41582.jpg) ![antwort a neu](https://user-images.githubusercontent.com/42734752/53811526-e5b51580-3f59-11e9-8890-e7cb8ffd9a26.png)
 
 ## 26.02.2019
 
-Heute haben wir das Belohnungsschild erstellt, welches permanent nach der ersten Belohnung auf dem Bildschirm erscheinen soll. Man kann also immer darauf zu greifen und seine bereits gesammelten Belohnungen ansehen. Dies bereitete uns anfänglich einige Schwierigkeiten, denn man sollte mit einem "Back-Button" immer wieder zurück zu dem Bildschirm davor gelangen.
+Heute haben wir das Belohnungsschild erstellt, welches permanent nach der ersten Belohnung auf dem Bildschirm erscheinen soll. Man kann also immer darauf zu greifen und seine bereits gesammelten Belohnungen ansehen. Dies bereitete uns anfänglich einige Schwierigkeiten, denn man sollte mit einem *Back-Button* immer wieder zurück zu dem Bildschirm davor gelangen.
 
 ![belohnungsschild](https://user-images.githubusercontent.com/42734752/53812331-907a0380-3f5b-11e9-96f3-37f149e10379.png)
 
@@ -147,20 +150,21 @@ Der bereits erstellte *Belohnungsscore* verändert sich immer, wenn eine neue Be
 
 ## 05.03.2019
 
-Diese Stunde haben wir das Script für den "Back-Button" optimiert, den wir bereits am 26.02.2019 erstellt haben, aber bei dem wir Schwierigkeiten für eine fehlerfreie Benutzung hatten. Die Optimierung erreichten wir mit dem Befehl *broadcast*, welcher von dem Sprite Belohnungsschild ausging. Wenn man also die Belohnungen sieht, erscheint auch ein "Back-Button", den man anklicken kann um zurück zu dem Spiel zu kommen und weiter zu spielen.
+Diese Stunde haben wir das Script für den *Back-Button* optimiert, den wir bereits am 26.02.2019 erstellt haben, aber bei dem wir Schwierigkeiten für eine fehlerfreie Benutzung hatten. Die Optimierung erreichten wir mit dem Befehl *broadcast*, welcher von dem Sprite Belohnungsschild ausging. Wenn man also die Belohnungen sieht, erscheint auch ein *Back-Button*, den man anklicken kann um zurück zu dem Spiel zu kommen und weiter zu spielen.
  
  ![back button script](https://user-images.githubusercontent.com/42734752/54521489-50f3e400-496b-11e9-92ef-16583eda4e82.jpg)
 
 ## 18.03.2019
-Heute haben wir eingefügt, dass man zu der nächsten Situation nach dem ersten gelösten Level kommt. Dies programierten wir wieder mit "Broadcast" und so, dass der "Next-Button" wieder erscheint.
+
+Heute haben wir eingefügt, dass man zu der nächsten Situation nach dem ersten gelösten Level kommt. Dies programierten wir wieder mit *Broadcast* und so, dass der *Next-Button* wieder erscheint.
 
 ![next button next level](https://user-images.githubusercontent.com/42734752/54521699-c1026a00-496b-11e9-834d-4c00718cf17a.png)
 
-Nun kann man mit dem "Next-Button" zu dem neuen Level (ein Cafe).
+Nun kann man mit dem *Next-Button* zu dem neuen Level (ein Cafe).
 Dabei stellten wir fest, dass ein Fehler auftritt, wenn man das Spiel schnell durchklickt, so wie wir das machen, um einfach Sachen zu überprüfen. Wenn man aber alle langsam macht und sich die Sachen durchliest, passiert dies nicht. Wir denken also, dass die Sprites nicht hinterherkommen, wenn man einfach alles durchklickt.
 
 ## 25.03.2019
 
-Diese Stunde haben wir die Rettungsfrage für die Antwortmöglichkeit B programiert. Dafür benutzten wir den Befehl *tell* um auf bereits vorhandene *Broadcasts* anderer Sprites zuzugreifen. So kann man wieder zur Anfangsfrage, wenn man die Rettungsfrage richtig beantwortet oder es erscheint das bereits vorhandene **Game over**-Zeichen aus Antwort, sofern man die falsche Antwort anklickt.  
+Diese Stunde haben wir die Rettungsfrage für die Antwortmöglichkeit **B** programiert. Dafür benutzten wir den Befehl *tell* um auf bereits vorhandene *Broadcasts* anderer Sprites zuzugreifen. So kann man wieder zur Anfangsfrage, wenn man die Rettungsfrage richtig beantwortet oder es erscheint das bereits vorhandene **Game over**-Zeichen aus Antwort, sofern man die falsche Antwort anklickt.  
 
 ![antwort 2 b](https://user-images.githubusercontent.com/42734752/55006173-9d7b9700-4fdd-11e9-8b6a-6b872e84e1d8.png)
