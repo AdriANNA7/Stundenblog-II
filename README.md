@@ -44,7 +44,7 @@ Wir haben einen Steckbrief für unser Spiel entwickelt. Es soll ein interaktives
 
 ## 18.12.2018
  
-"Die Geschichte einer Kuh" - Das Grundkonzept unseres Spiels. Heute haben wir die Startseite unseres Spiels programmiert. 
+``**"Die Geschichte einer Kuh"**`` - Das Grundkonzept unseres Spiels. Heute haben wir die Startseite unseres Spiels programmiert. 
 
 ![startseite](https://user-images.githubusercontent.com/42734752/51918958-c79c4880-23e2-11e9-99ce-89e971faf95d.jpg)
 ![startseite2](https://user-images.githubusercontent.com/42734752/51919039-f61a2380-23e2-11e9-94ad-f50687ee87ac.jpg)
