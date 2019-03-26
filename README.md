@@ -5,7 +5,7 @@
 [2. Stundenblog](#2)
 
 ## Einleitung<a name="1"></a>
-Auf dieser Seite protokolieren wir die Informatikstunden im zweiten Semester des Schuljahres 2018/19. In diesen Informatikstunden haben wir bereits ein gewisses Basiswissen, da wir uns bereits mit dem Programmieren auseinandergesetzt haben. Im Folgendem berichten wir von unseren weiteren Erkenntnissen, Fortschritten und Problemen beim Programmieren. Dazu versuchen wir möglichst detailliert und verständlich unsere Arbeitsschritte darzustellen.
+Auf dieser Seite protokollieren wir die Informatikstunden im zweiten Semester des Schuljahres 2018/19. In diesen Informatikstunden haben wir bereits ein gewisses Basiswissen, da wir uns bereits mit dem Programmieren auseinandergesetzt haben. Im Folgendem berichten wir von unseren weiteren Erkenntnissen, Fortschritten und Problemen beim Programmieren. Dazu versuchen wir möglichst detailliert und verständlich unsere Arbeitsschritte darzustellen.
 
 ## Stundenblog<a name="2"></a>
 
@@ -84,8 +84,8 @@ Heute haben wir die Animation für die Antwort B programmiert. Dafür brauchten 
 
 
 ## 21.01.2019
- Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen.Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlauf des Spieles auftreten.
- Dazu haben wir Soundeffekts eingefügt. Und ein Konzept für eine Variable, die das Programmieren einfacher machen soll. Dies haben wir bis zum Ende der Stunde gemacht. Zusätzlich haben wir das Mini-Spiel für die Antwort A verbessert (siehe 14.01.2019).
+ Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen. Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlauf des Spieles auftreten.
+Dazu haben wir Soundeffekts eingefügt. Und ein Konzept für eine Variable, die das Programmieren einfacher machen soll. Dies haben wir bis zum Ende der Stunde gemacht. Zusätzlich haben wir das Mini-Spiel für die Antwort A verbessert (siehe 14.01.2019).
  
 ![a optimiert](https://user-images.githubusercontent.com/42734752/54911424-bf4a2080-4eee-11e9-8831-c7ad9822cba1.png)
 
@@ -159,3 +159,8 @@ Heute haben wir eingefügt, dass man zu der nächsten Situation nach dem ersten 
 Nun kann man mit dem "Next-Button" zu dem neuen Level (ein Cafe).
 Dabei stellten wir fest, dass ein Fehler auftritt, wenn man das Spiel schnell durchklickt, so wie wir das machen, um einfach Sachen zu überprüfen. Wenn man aber alle langsam macht und sich die Sachen durchliest, passiert dies nicht. Wir denken also, dass die Sprites nicht hinterherkommen, wenn man einfach alles durchklickt.
 
+## 25.03.2019
+
+Diese Stunde haben wir die Rettungsfrage für die Antwortmöglichkeit B programiert. Dafür benutzten wir den Befehl *tell* um auf bereits vorhandene *Broadcasts* anderer Sprites zuzugreifen. So kann man wieder zur Anfangsfrage, wenn man die Rettungsfrage richtig beantwortet oder es erscheint das bereits vorhandene **Game over**-Zeichen aus Antwort, sofern man die falsche Antwort anklickt.  
+
+![antwort 2 b](https://user-images.githubusercontent.com/42734752/55006173-9d7b9700-4fdd-11e9-8b6a-6b872e84e1d8.png)
