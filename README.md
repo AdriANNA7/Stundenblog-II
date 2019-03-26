@@ -23,7 +23,9 @@ Hier die **Liste unserer Ideen**:
   - primitives AI (Arduino)
   
   - Apps:
+  
       --> Selbsttest - daraus ergibt : Persönlichkeit + z.B. passendes Reiseziel
+      
       --> Kinderprognose (das Aussehen aufgrund der Mendel'schen Regeln, DNA, Allele)
       
  
