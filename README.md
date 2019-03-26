@@ -5,7 +5,7 @@
 [2. Stundenblog](#2)
 
 ## Einleitung<a name="1"></a>
-Auf dieser Seite protokollieren wir die Informatikstunden im zweiten Semester des Schuljahres 2018/19. In diesen Informatikstunden haben wir bereits ein gewisses Basiswissen, da wir uns bereits mit dem Programmieren auseinandergesetzt haben. Im Folgendem berichten wir von unseren weiteren Erkenntnissen, Fortschritten und Problemen beim Programmieren. Dazu versuchen wir möglichst detailliert und verständlich unsere Arbeitsschritte darzustellen.
+Auf dieser Seite protokollieren wir die Informatikstunden im zweiten Semester des Schuljahres 2018/19. In diesen Informatikstunden haben wir bereits ein gewisses Basiswissen, da wir uns bereits mit dem Programmieren auseinandergesetzt haben. Im Folgendem berichten wir von unseren weiteren Erkenntnissen, Fortschritten und Problemen beim Programmieren. Wir fassen für jede Stunde grob zusammen was wir getan haben und konkretisieren dies durch Screenshots unserer programierten Scripts.
 
 ## Stundenblog<a name="2"></a>
 
