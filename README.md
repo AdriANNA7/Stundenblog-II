@@ -86,7 +86,7 @@ Heute haben wir die Animation für die **Antwort B** programmiert. Dafür brauch
 
 ## 21.01.2019
 
-Heute wollen wir die "Rettungsaktion für die Antwort **B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen. Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlauf des Spieles auftreten.
+Heute wollen wir die Rettungsaktion für die **Antwort B** programmieren. Diese wird eine weitere Frage zum Thema *Elektrische Feldern*. Wir haben uns entschieden einen einzigen Sprite für die Rettungsfragen zu erstellen. Mit diesem Sprite werden alle Zusatzfragen erscheinen, die im Verlauf des Spieles auftreten.
 Dazu haben wir Soundeffekts eingefügt. Und ein Konzept für eine Variable, die das Programmieren einfacher machen soll. Dies haben wir bis zum Ende der Stunde gemacht. Zusätzlich haben wir das Mini-Spiel für die **Antwort A** verbessert (siehe 14.01.2019).
  
 ![a optimiert](https://user-images.githubusercontent.com/42734752/54911424-bf4a2080-4eee-11e9-8831-c7ad9822cba1.png)
@@ -104,7 +104,7 @@ Dazu haben wir auch das Szenario für die richtige **Antwort D**, also eine Grub
 
 ## 29.01.2019
 
-Diese Stunde haben wir das Szenario der **Antwortsmöglichkeit A** weiterentwickelt, indem wir eine Animation (Feuer) zusätzlich programmiert haben. 
+Diese Stunde haben wir das Szenario der **Antwortmöglichkeit A** weiterentwickelt, indem wir eine Animation (Feuer) zusätzlich programmiert haben. 
 
 ![feuer](https://user-images.githubusercontent.com/42734752/53419487-4680a300-39da-11e9-81ea-19e0e733f6dd.jpg)
 
@@ -130,13 +130,13 @@ Diese Stunde haben wir uns Projekte im Internet angesehen, um neue Ideen zu find
 
 ## 25.02.2019
 
-Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir nämlich durch den Control-befehl *receive* ersetzt, also broadcasts eingefügt. Dies hat uns einiges erleichtert, sodass wir die verschiedenen Sprites besser interagieren lassen konnten. Zum Beispiel bei der Antwortvariante **A**, wird eine Nachricht *Flammen* erstellt, die von einem anderen Sprite erfasst wird(in diesem Fall Sprite 6).
+Heute haben wir viele unserer Befehle verbessert. Einige Befehle haben wir nämlich durch den Control-befehl *receive* ersetzt, also broadcasts eingefügt. Dies hat uns einiges erleichtert, sodass wir die verschiedenen Sprites besser interagieren lassen konnten. Zum Beispiel bei der **Antwortvariante A**, wird eine Nachricht *Flammen* erstellt, die von einem anderen Sprite erfasst wird(in diesem Fall Sprite 6).
 
 ![flammenbroadcast](https://user-images.githubusercontent.com/42734752/53811948-bb178c80-3f5a-11e9-8d72-79c611a41582.jpg) ![antwort a neu](https://user-images.githubusercontent.com/42734752/53811526-e5b51580-3f59-11e9-8890-e7cb8ffd9a26.png)
 
 ## 26.02.2019
 
-Heute haben wir das Belohnungsschild erstellt, welches permanent nach der ersten Belohnung auf dem Bildschirm erscheinen soll. Man kann also immer darauf zu greifen und seine bereits gesammelten Belohnungen ansehen. Dies bereitete uns anfänglich einige Schwierigkeiten, denn man sollte mit einem *Back-Button* immer wieder zurück zu dem Bildschirm davor gelangen.
+Heute haben wir das **Belohnungsschild** erstellt, welches permanent nach der ersten Belohnung auf dem Bildschirm erscheinen soll. Man kann also immer darauf zu greifen und seine bereits gesammelten Belohnungen ansehen. Dies bereitete uns anfänglich einige Schwierigkeiten, denn man sollte mit einem *Back-Button* immer wieder zurück zu dem Bildschirm davor gelangen.
 
 ![belohnungsschild](https://user-images.githubusercontent.com/42734752/53812331-907a0380-3f5b-11e9-96f3-37f149e10379.png)
 
@@ -150,7 +150,7 @@ Der bereits erstellte *Belohnungsscore* verändert sich immer, wenn eine neue Be
 
 ## 05.03.2019
 
-Diese Stunde haben wir das Script für den *Back-Button* optimiert, den wir bereits am 26.02.2019 erstellt haben, aber bei dem wir Schwierigkeiten für eine fehlerfreie Benutzung hatten. Die Optimierung erreichten wir mit dem Befehl *broadcast*, welcher von dem Sprite Belohnungsschild ausging. Wenn man also die Belohnungen sieht, erscheint auch ein *Back-Button*, den man anklicken kann um zurück zu dem Spiel zu kommen und weiter zu spielen.
+Diese Stunde haben wir das Script für den *Back-Button* optimiert, den wir bereits am ``26.02.2019`` erstellt haben, aber bei dem wir Schwierigkeiten für eine fehlerfreie Benutzung hatten. Die Optimierung erreichten wir mit dem Befehl *broadcast*, welcher von dem Sprite Belohnungsschild ausging. Wenn man also die Belohnungen sieht, erscheint auch ein *Back-Button*, den man anklicken kann um zurück zu dem Spiel zu kommen und weiter zu spielen.
  
  ![back button script](https://user-images.githubusercontent.com/42734752/54521489-50f3e400-496b-11e9-92ef-16583eda4e82.jpg)
 
@@ -165,6 +165,6 @@ Dabei stellten wir fest, dass ein Fehler auftritt, wenn man das Spiel schnell du
 
 ## 25.03.2019
 
-Diese Stunde haben wir die Rettungsfrage für die Antwortmöglichkeit **B** programiert. Dafür benutzten wir den Befehl *tell* um auf bereits vorhandene *Broadcasts* anderer Sprites zuzugreifen. So kann man wieder zur Anfangsfrage, wenn man die Rettungsfrage richtig beantwortet oder es erscheint das bereits vorhandene **Game over**-Zeichen aus Antwort, sofern man die falsche Antwort anklickt.  
+Diese Stunde haben wir die Rettungsfrage für die **Antwortmöglichkeit B** programiert. Dafür benutzten wir den Befehl *tell* um auf bereits vorhandene *Broadcasts* anderer Sprites zuzugreifen. So kann man wieder zur Anfangsfrage, wenn man die Rettungsfrage richtig beantwortet oder es erscheint das bereits vorhandene **Game over**-Zeichen aus Antwort, sofern man die falsche Antwort anklickt.  
 
 ![antwort 2 b](https://user-images.githubusercontent.com/42734752/55006173-9d7b9700-4fdd-11e9-8b6a-6b872e84e1d8.png)
